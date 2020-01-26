@@ -1,0 +1,198 @@
+
+{
+  
+  "storeProducts": [
+    {
+      "id": 1,
+      "title": "Nike Air",
+      "img": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/zc5x1xceepbszkhwprvn/joyride-run-flyknit-running-shoe-nT7m43.jpg",
+      "price": 70,
+      "company": "Nike",
+      "style": "Men",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },
+    {
+      "id": 2,
+      "title": "Nike Air",
+      "img": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/zc5x1xceepbszkhwprvn/joyride-run-flyknit-running-shoe-nT7m43.jpg",
+      "price": 60,
+      "company": "Nike",
+      "style": "Mens",
+      "size": 8,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },
+    {
+      "id": 3,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Mens",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },
+    
+    {
+      "id": 4,
+      "title": "Adidas Running",
+      "img": "https://images.sportsdirect.com/images/products/27113140_l.jpg",
+      "price": 100,
+      "company": "Running",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },
+    {
+      "id": 5,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 40,
+      "company": "Nike",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 6,
+      "title": "Adidas",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Mens",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 7,
+      "title": "Kappa",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 300,
+      "company": "Nike",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 8,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Kids",
+      "size": 4,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 9,
+      "title": "Nike Air",
+      "img": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fhd0ohyx2dxlgtts0mmy/ryz-365-shoe-M9JPXG.jpg",
+      "price": 60,
+      "company": "Nike",
+      "style": "Kids",
+      "size": 4,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 10,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 90,
+      "company": "Nike",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 11,
+      "title": "Nike Air",
+      "img": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fhd0ohyx2dxlgtts0mmy/ryz-365-shoe-M9JPXG.jpg",
+      "price": 30,
+      "company": "Nike",
+      "style": "Kids",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 12,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+      
+    },    {
+      "id": 13,
+      "title": "Nike Air",
+      "img": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fhd0ohyx2dxlgtts0mmy/ryz-365-shoe-M9JPXG.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Mens",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    },    {
+      "id": 14,
+      "title": "Nike Air",
+      "img": "https://images.sportsdirect.com/images/products/12100191_l.jpg",
+      "price": 500,
+      "company": "Nike",
+      "style": "Women",
+      "size": 6,
+      "inCart": false,
+      "season": "Spring",
+      "count": 0,
+      "total": 0
+    }
+  ],
+
+
+  "detailProduct": [
+      {
+        "id": 1,
+        "title": "Nike Air",
+        "img": "img/product-1.png",
+        "price": 70,
+        "company": "Nike",
+        "style": "Men",
+        "size": 6,
+        "inCart": false,
+        "count": 0,
+        "total": 0
+      }
+    ]
+    
+}
